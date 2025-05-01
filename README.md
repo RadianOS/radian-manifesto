@@ -1,5 +1,7 @@
 "Do the right thing by default, but make it introspectable and fixable."
                                                              ~ Rudy
+## Note: This manifesto is being written to share the ideas with others , changes are allowed but copying the ideas isn't since i have trademarked these ideas by writing the manifesto.
+
 # Why did i write this manifesto? (CH001)
 The main cause of writing this manifesto is because of Unix's limitations and the limitations i've faced on Linux , It's generally UNIX as a whole
 What are these limitations? 
