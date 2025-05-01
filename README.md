@@ -11,7 +11,7 @@ Well lets first discuss about the Linux limitations:
 - It has weak isolation, overexposed root privileges, and patchwork security models.
 - Package management is messy, and configuration is inconsistent across distros.
 
-While BSD (Berkeley Software Distribution) tried to solve this , its made for big routers and servers mostly and lacks destkop support and rapid development of latest technology because of the Lawsuits faced by UNIX Laboratory.
+While BSD (Berkeley Software Distribution) tried to solve this , its made for big routers and servers mostly and lacks destkop support and rapid development of latest technology because of the Lawsuits faced by UNIX Laboratory , which is why big tech giants don't produce drivers for BSD and that's why Linux is the main attraction.
 
 Now about Unix generally as a whole:
 - The 1970s file system hierarchy doesn’t scale with modern application design.
