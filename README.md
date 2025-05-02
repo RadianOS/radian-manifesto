@@ -305,6 +305,7 @@ RadianOS strictly requires:
 
 the legendary quote you've read in Chapter 001 is being called here again for a friendly reminder!
 > A system you cannot understand is a system you cannot control. ~ Arch Linux Philosophy
+
 RadianOS rejects silent failures and cryptic messages.
 
 **Every component must justify its existence.**
