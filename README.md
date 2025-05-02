@@ -149,7 +149,7 @@ Command-line tools in Unix systems often require expertise, institutional memory
   - Unified command syntax
 - Logs must be **structured**, timestamped, and filterable by program and subsystem.
 
-A system you can’t understand is one you don’t control.
+> "A system you can’t understand is one you don’t control." ~ Arch Linux Philosophy
 
 ---
 
